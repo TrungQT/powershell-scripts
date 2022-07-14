@@ -1,4 +1,5 @@
-slmgr.vbs /ipk RXBQY-V2NVH-MX6FH-TJW99-MG9R4
+slmgr.vbs /ipk "Insert MAK licence key here"
+
 slmgr /ato
 
 Powershell.exe
